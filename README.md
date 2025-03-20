@@ -1,5 +1,15 @@
-Welcome to the Learning Embedded Systems repository! This repository is designed to help you get started with embedded systems development, covering microcontrollers, sensors, communication protocols, and real-world projects.
+Welcome!
+My Learning process in Embedded Systems repository! This repository is designed to help you get started with embedded systems development, covering microcontrollers, sensors, communication protocols, and real-world projects.
 
-What You'll Learn
+What i Learn
 
-📌 Basics of Embedded Systems and Microcontrollers-
+📌 Basics of Embedded Systems-
+Electrical Stream
+   ✴️ Electricity 
+   ✴️ Voltage 
+   ✴️ Current 
+   ✴️ Resistance 
+   ✴️ Power 
+   ✴️ Energy
+   
+   
