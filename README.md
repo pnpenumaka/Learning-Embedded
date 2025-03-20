@@ -3,9 +3,9 @@ My Learning process in Embedded Systems repository! This repository is designed 
 
 What i Learn
 
-📌 Basics of Embedded Systems-
-Electrical Stream
-   ✴️ Electricity 
+📌 Basics of Embedded Systems- <br>
+Electrical Stream<br>
+   ✴️ Electricity <br>
    ✴️ Voltage 
    ✴️ Current 
    ✴️ Resistance 
