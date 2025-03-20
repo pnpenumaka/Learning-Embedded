@@ -6,10 +6,10 @@ What i Learn
 📌 Basics of Embedded Systems- <br>
 Electrical Stream<br>
    ✴️ Electricity <br>
-   ✴️ Voltage 
-   ✴️ Current 
-   ✴️ Resistance 
-   ✴️ Power 
+   ✴️ Voltage <br>
+   ✴️ Current <br>
+   ✴️ Resistance <br>
+   ✴️ Power <br>
    ✴️ Energy
    
    
